@@ -24,33 +24,9 @@ This project is built as part of learning React Hooks and component structure.
 - CSS
 - QR Code API (goqr.me)
 
-- 
-## 📂 Folder Structure
 
-qr-code-generator
-│
-├── public
-│
-├── src
-│ ├── assets
-│ │ └── profile.jpg
-│ │
-│ ├── components
-│ │ └── QrCode.jsx
-│ │
-│ ├── App.jsx
-│ ├── main.jsx
-│ └── styles.css
-│
-├── package.json
-├── vite.config.js
-└── README.md
-
----
 
 👨‍💻 Author
 Piramu M
 Final Year – Artificial Intelligence & Data Science
-React Learner & Full Stack Developer
-
 
